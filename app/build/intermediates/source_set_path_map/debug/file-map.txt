@@ -1,0 +1,8 @@
+com.shreyank.statussaver.app-pngs-0 /data/data/com.termux/files/home/development/statussaver/app/build/generated/res/pngs/debug
+com.shreyank.statussaver.app-resValues-1 /data/data/com.termux/files/home/development/statussaver/app/build/generated/res/resValues/debug
+com.shreyank.statussaver.app-rs-2 /data/data/com.termux/files/home/development/statussaver/app/build/generated/res/rs/debug
+com.shreyank.statussaver.app-mergeDebugResources-3 /data/data/com.termux/files/home/development/statussaver/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.shreyank.statussaver.app-mergeDebugResources-4 /data/data/com.termux/files/home/development/statussaver/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.shreyank.statussaver.app-merged_res-5 /data/data/com.termux/files/home/development/statussaver/app/build/intermediates/merged_res/debug
+com.shreyank.statussaver.app-debug-6 /data/data/com.termux/files/home/development/statussaver/app/src/debug/res
+com.shreyank.statussaver.app-main-7 /data/data/com.termux/files/home/development/statussaver/app/src/main/res
