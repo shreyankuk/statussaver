@@ -6,9 +6,8 @@
 
     <application
         android:label="Whatsapp Status Saver Ad-Free"
-        android:icon="@mipmap/ic_launcher"
-        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -17,8 +16,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-
     </application>
-
 </manifest>
 
